@@ -17,7 +17,6 @@ describe Array do
     it 'can multiply numbers' do
       expect([1, 2, 3, 4].inject{|memo, item| memo * item}).to eq(24)
       expect([1, 2, 3, 4].my_inject{|memo, item| memo * item}).to eq(24)
-
     end
 
   end
