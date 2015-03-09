@@ -8,6 +8,9 @@ This was a personal weekend challenge for Week 2 of Makers Academy. The task was
 * Ruby
 * Rspec
 
+##Lessons Learned
+I found it quite easy to recreate the functionality of the inject() method, but it proved much harder trying to do this using concise methods. I had a bash at using recursion, but failed miserably at this.
+
 
 ## Domain Model / CRC
 
